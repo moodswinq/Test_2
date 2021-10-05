@@ -6,5 +6,6 @@ int main()
     while (1)
     {
         printf("yiyiyiyi");
+        printf("yoyoyoyo");
     }
 }
